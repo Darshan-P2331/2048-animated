@@ -8,7 +8,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a>
     <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" /></a>
     <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" /></a>
-    <a href="https://pages.github.com/"><img src="https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-222222?style=flat-square&logo=github&logoColor=white" alt="GitHub Pages" /></a>
+    <a href="https://darshan-p2331.github.io/2048-animated/"><img src="https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-222222?style=flat-square&logo=github&logoColor=white" alt="GitHub Pages" /></a>
   </p>
 
   <p>
